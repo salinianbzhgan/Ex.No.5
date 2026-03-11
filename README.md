@@ -1,8 +1,8 @@
 
 
 # EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
-# NAME: SALINI A
-# REG :212223220091
+ NAME: SALINI A
+ REG :212223220091
 # Aim: 
 To test and compare how different prompting techniques (Zero-shot, Few-shot, and Chain-of-Thought) influence the quality, accuracy, and depth of AI-generated responses across the same task.
 
